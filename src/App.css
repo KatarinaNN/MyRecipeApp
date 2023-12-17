@@ -45,6 +45,7 @@ button{
 
   li, p, h3{
     font-size: 15px;
+    font-weight: bold;
   }
   .dish{
     width: 80%;
