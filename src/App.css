@@ -44,7 +44,7 @@ button{
 @media all and (max-width:500px){
 
   li, p, h3{
-    font-size: 15px;
+    font-size: 17px;
     font-weight: bold;
   }
   .dish{
